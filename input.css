@@ -15,7 +15,7 @@ body {
   .rules--class {
     width: 22rem;
     height: 55vh;
-    background-image: url("/images/image-rules.svg");
+    background-image: url("images/image-rules.svg");
     background-repeat: no-repeat;
     background-position: 50% 80%;
     background-color: #EEEEEE;
@@ -34,7 +34,7 @@ body {
     display: none;
   }
   .close--image {
-    background-image: url("/images/icon-close.svg");
+    background-image: url("images/icon-close.svg");
     background-repeat: no-repeat;
     right: 5%;
     top: 5%;
@@ -283,7 +283,7 @@ body {
   .rules--class {
     width: 100%;
     height: 100vh;
-    background-image: url("/images/image-rules.svg");
+    background-image: url("images/image-rules.svg");
     background-repeat: no-repeat;
     background-color: #EEEEEE;
     font-family: 'Barlow Semi Condensed', sans-serif;
@@ -301,7 +301,7 @@ body {
             justify-content: center;
   }
   .close--image {
-    background-image: url("/images/icon-close.svg");
+    background-image: url("images/icon-close.svg");
     background-repeat: no-repeat;
     left: 47%;
     top: 85%;
