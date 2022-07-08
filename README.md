@@ -30,9 +30,3 @@ Users should be able to:
 - Mobile-first workflow
 - GSAP(https://greensock.com/) - JS library
 - JavaScript
-
-
-
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
