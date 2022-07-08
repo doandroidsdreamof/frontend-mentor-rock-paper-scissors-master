@@ -20,9 +20,9 @@ const paperColor = "hsl(230, 89%, 62%)";
 const rockColor = "hsl(349, 71%, 52%)";
 const scissorsColor = "hsl(39, 89%, 49%)";
 
-const paperUrl = "url('/images/icon-paper.svg')";
-const scissorsUrl = "url('/images/icon-scissors.svg')";
-const rockUrl = "url('/images/icon-rock.svg')";
+const paperUrl = "url('images/icon-paper.svg')";
+const scissorsUrl = "url('images/icon-scissors.svg')";
+const rockUrl = "url('images/icon-rock.svg')";
 
 var gameScore = 0;
 var breakPoint = window.matchMedia("(max-width: 720px)");
