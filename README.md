@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-![images](screenshot.jpg)
+![images](images/screenshot.jpg)
 
 
 ### Built with
